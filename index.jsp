@@ -65,7 +65,7 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
 
     text-align: right;
     padding-top: 11em;
-    background-color: #0188cc;
+    background-color: #228B22;
     background-image: -moz-radial-gradient(left top, circle, #6ac9f9 0%, #0188cc 60%);
     background-image: -webkit-gradient(radial, 0 0, 1, 0 0, 500, from(#6ac9f9), to(#0188cc));
   }
@@ -80,7 +80,7 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
     bottom: 0px;
     left: 50%;
 
-    background-color: #7FFFD4;
+    background-color: #c7c7c7;
   }
 
   h1 {
@@ -110,7 +110,7 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
   </div>
   
   <div class="linksColumn"> 
-    <h2>Next is What</h2>
+    <h2>What is Next?</h2>
   </div>
 </script>
 </body>
