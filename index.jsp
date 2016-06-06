@@ -110,7 +110,7 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
   </div>
   
   <div class="linksColumn"> 
-    <h2>What's Next??</h2>
+    <h2>Next is What</h2>
   </div>
 </script>
 </body>
