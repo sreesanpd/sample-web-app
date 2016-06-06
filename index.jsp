@@ -80,7 +80,7 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
     bottom: 0px;
     left: 50%;
 
-    background-color: #c7c7c7;
+    background-color: #C71585;
   }
 
   h1 {
